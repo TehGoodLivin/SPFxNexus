@@ -1,0 +1,4 @@
+/*!
+ * Nexus by TehGoodLivin
+ * Copyright (c) 2026 Austin Livengood <https://github.com/TehGoodLivin/>
+ */

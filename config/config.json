@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "nexus-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/nexus/NexusWebPart.js",
+          "manifest": "./src/webparts/nexus/NexusWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {}
+}
